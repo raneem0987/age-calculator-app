@@ -56,7 +56,7 @@ input {
 .input h5 {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: var(--secondary-color);
+  color: var(--primary-dark-color);
 }
 
 hr {
